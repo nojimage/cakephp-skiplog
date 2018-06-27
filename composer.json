@@ -1,5 +1,5 @@
 {
-    "name": "nojimage/cakephp-skiplog",
+    "name": "nojimage/skip-missing-exception-log",
     "type": "cakephp-plugin",
     "description": "Skip missing exceptions log for CakePHP",
     "keywords": [

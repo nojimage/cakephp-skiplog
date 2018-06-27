@@ -15,7 +15,7 @@ You can install this plugin into your CakePHP application using [composer](http:
 The recommended way to install composer packages is:
 
 ```
-composer require nojimage/cakephp-skiplog
+composer require nojimage/skip-missing-exception-log
 ```
 
 You will need to add the following line to your application's bootstrap.php file:
