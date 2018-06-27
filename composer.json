@@ -1,0 +1,15 @@
+{
+    "name": "nojimage/cakephp-skiplog",
+    "type": "cakephp-plugin",
+    "description": "Skip missing exceptions log for CakePHP",
+    "keywords": [
+        "cakephp",
+        "logging",
+        "exception"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "cakephp/cakephp": "^2.4"
+    }
+}
